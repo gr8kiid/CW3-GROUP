@@ -1,0 +1,16 @@
+{
+    "name": "Lessons",
+    "short_name": "Lessons",
+    "description": "An online store for after school lessons",
+    "icons": [
+      {
+        "src": "images/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "client.html",
+    "display": "fullscreen",
+    "background_color": "#6741D9"
+  }
+  
