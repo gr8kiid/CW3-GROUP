@@ -1,7 +1,7 @@
 var cacheName = 'lessons-v1';
 // files to cache
 var cacheFiles = [
-    'index.html',
+    'client.html',
     'products.js',
     'products.webmanifest',
     'images',
